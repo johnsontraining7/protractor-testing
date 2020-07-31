@@ -1,0 +1,79 @@
+{
+  "6b83b58f183ba97960d741bd1e851aa6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cb97cc0a74fce890",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596174074455,
+        "stop" : 1596174079425,
+        "duration" : 4970
+      }
+    } ]
+  },
+  "eef5f3ff9a8c4e261a2b8bb7f1a1337d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "64ae9f909c2dc325",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596173048897,
+        "stop" : 1596173049412,
+        "duration" : 515
+      }
+    } ]
+  },
+  "ab17a4adf778137c03b4b1f70504f2ec" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c6c10f336d60246c",
+      "status" : "failed",
+      "statusDetails" : "Expected 'Protractor - end-to-end testing for AngularJS' not to be 'Protractor - end-to-end testing for AngularJS'.",
+      "time" : {
+        "start" : 1596173049412,
+        "stop" : 1596173049873,
+        "duration" : 461
+      }
+    } ]
+  },
+  "b35c41ca3e5c91e4368df3dc67855cef" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "698ef1e49690b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596173049873,
+        "stop" : 1596173050322,
+        "duration" : 449
+      }
+    } ]
+  }
+}

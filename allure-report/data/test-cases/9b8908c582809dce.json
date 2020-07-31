@@ -1,0 +1,60 @@
+{
+  "uid" : "9b8908c582809dce",
+  "name" : " - match equals using to Be",
+  "fullName" : "Jasmine matchers test. - match equals using to Be",
+  "historyId" : "eef5f3ff9a8c4e261a2b8bb7f1a1337d",
+  "time" : {
+    "start" : 1596169546633,
+    "stop" : 1596169547119,
+    "duration" : 486
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "85f890c260601a07",
+      "name" : "Screenshot",
+      "source" : "85f890c260601a07.png",
+      "type" : "image/png",
+      "size" : 273205
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Jasmine matchers test"
+  }, {
+    "name" : "testClass",
+    "value" : "Jasmine matchers test"
+  }, {
+    "name" : "testMethod",
+    "value" : " - match equals using to Be"
+  }, {
+    "name" : "package",
+    "value" : "Jasmine matchers test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9b8908c582809dce.json",
+  "parameterValues" : [ ]
+}

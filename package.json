@@ -1,0 +1,20 @@
+{
+  "name": "protractor-testing",
+  "version": "1.0.0",
+  "description": "Protractor project with pom implementation, reporting impls and logging impls",
+  "main": "conf.js",
+  "scripts": {
+    "pretest": "rm -rf allure-report",
+    "test": "protractor confs/conf.js || :",
+    "posttest": "allure generate allure-results --clean -o allure-report || true"
+  },
+  "author": "Johnson",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine-allure-reporter": "^1.0.2",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "allure-commandline": "^2.13.0"
+  }
+}

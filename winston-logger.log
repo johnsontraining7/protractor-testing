@@ -1,0 +1,120 @@
+{
+  level: 'info',
+  message: 'Navigating to the protractor homepage',
+  timestamp: '2020-07-31T05:01:05.039Z'
+}
+{
+  level: 'info',
+  message: 'Getting the protractor homepage title',
+  timestamp: '2020-07-31T05:01:05.048Z'
+}
+{
+  level: 'info',
+  message: 'Sleeping for 3 seconds',
+  timestamp: '2020-07-31T05:01:05.050Z'
+}
+{
+  level: 'info',
+  message: 'Checking if match is equal',
+  timestamp: '2020-07-31T05:01:09.350Z'
+}
+{
+  level: 'info',
+  message: 'Checking if match is not equal',
+  timestamp: '2020-07-31T05:01:09.829Z'
+}
+{
+  level: 'info',
+  message: 'Checking if match contains a text',
+  timestamp: '2020-07-31T05:01:10.255Z'
+}
+{
+  level: 'info',
+  message: 'Navigating to the protractor homepage',
+  timestamp: '2020-07-31T05:24:03.260Z'
+}
+{
+  level: 'info',
+  message: 'Getting the protractor homepage title',
+  timestamp: '2020-07-31T05:24:03.262Z'
+}
+{
+  level: 'info',
+  message: 'Sleeping for 3 seconds',
+  timestamp: '2020-07-31T05:24:03.262Z'
+}
+{
+  level: 'info',
+  message: 'Checking if match is equal',
+  timestamp: '2020-07-31T05:24:08.897Z'
+}
+{
+  level: 'info',
+  message: 'Checking if match is not equal',
+  timestamp: '2020-07-31T05:24:09.413Z'
+}
+{
+  level: 'info',
+  message: 'Checking if match contains a text',
+  timestamp: '2020-07-31T05:24:09.873Z'
+}
+{
+  level: 'info',
+  message: 'navigating to bank app home page',
+  timestamp: '2020-07-31T05:24:55.725Z'
+}
+{
+  level: 'info',
+  message: 'navigating to bank app home page',
+  timestamp: '2020-07-31T05:38:51.027Z'
+}
+{
+  level: 'info',
+  message: 'clicking on login as customer',
+  timestamp: '2020-07-31T05:38:51.853Z'
+}
+{
+  level: 'info',
+  message: 'clicking on login as with name `Albus Dumbledore`',
+  timestamp: '2020-07-31T05:38:51.854Z'
+}
+{
+  level: 'info',
+  message: 'navigating to bank app home page',
+  timestamp: '2020-07-31T05:39:32.216Z'
+}
+{
+  level: 'info',
+  message: 'clicking on login as customer',
+  timestamp: '2020-07-31T05:39:32.960Z'
+}
+{
+  level: 'info',
+  message: 'clicking on login as with name `Albus Dumbledore`',
+  timestamp: '2020-07-31T05:39:32.961Z'
+}
+{
+  level: 'info',
+  message: 'Validating if login successful using page title',
+  timestamp: '2020-07-31T05:39:32.962Z'
+}
+{
+  level: 'info',
+  message: 'navigating to bank app home page',
+  timestamp: '2020-07-31T05:41:13.750Z'
+}
+{
+  level: 'info',
+  message: 'clicking on login as customer',
+  timestamp: '2020-07-31T05:41:14.456Z'
+}
+{
+  level: 'info',
+  message: 'clicking on login as with name `Albus Dumbledore`',
+  timestamp: '2020-07-31T05:41:14.457Z'
+}
+{
+  level: 'info',
+  message: 'Validating if login successful using page title',
+  timestamp: '2020-07-31T05:41:14.457Z'
+}

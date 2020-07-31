@@ -1,0 +1,64 @@
+{
+  "uid" : "fa3a7f363284f0d7",
+  "name" : " - test login as customer",
+  "fullName" : "Bank app suite. - test login as customer",
+  "historyId" : "6b83b58f183ba97960d741bd1e851aa6",
+  "time" : {
+    "start" : 1596173972959,
+    "stop" : 1596173977063,
+    "duration" : 4104
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected Function to be 'Protractor practice website - Banking App'.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/ezjohnson/training-workspace2/protractor-testing/specs/login/login-as-customer.js:24:39)\n                    at /usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:112:25\n                    at new ManagedPromise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1077:7)\n                    at ControlFlow.promise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2505:12)\n                    at schedulerExecute (/usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:95:18)\n                    at TaskQueue.execute_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2974:25\n                    at /usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:668:7",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected Function to be 'Protractor practice website - Banking App'.",
+    "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/ezjohnson/training-workspace2/protractor-testing/specs/login/login-as-customer.js:24:39)\n                    at /usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:112:25\n                    at new ManagedPromise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1077:7)\n                    at ControlFlow.promise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2505:12)\n                    at schedulerExecute (/usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:95:18)\n                    at TaskQueue.execute_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2974:25\n                    at /usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:668:7",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1d8c07c390372e2a",
+      "name" : "Screenshot",
+      "source" : "1d8c07c390372e2a.png",
+      "type" : "image/png",
+      "size" : 68646
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Bank app suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Bank app suite"
+  }, {
+    "name" : "testMethod",
+    "value" : " - test login as customer"
+  }, {
+    "name" : "package",
+    "value" : "Bank app suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fa3a7f363284f0d7.json",
+  "parameterValues" : [ ]
+}
