@@ -1,40 +1,10 @@
 [ {
-  "uid" : "64ae9f909c2dc325",
-  "name" : " - match equals using to Be",
-  "time" : {
-    "start" : 1596173048897,
-    "stop" : 1596173049412,
-    "duration" : 515
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "cb97cc0a74fce890",
+  "uid" : "706134fa3e7be90",
   "name" : " - test login as customer",
   "time" : {
-    "start" : 1596174074455,
-    "stop" : 1596174079425,
-    "duration" : 4970
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c6c10f336d60246c",
-  "name" : " - match not equals using to Be",
-  "time" : {
-    "start" : 1596173049412,
-    "stop" : 1596173049873,
-    "duration" : 461
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "698ef1e49690b9",
-  "name" : " - match contains text",
-  "time" : {
-    "start" : 1596173049873,
-    "stop" : 1596173050322,
-    "duration" : 449
+    "start" : 1596252146521,
+    "stop" : 1596252150545,
+    "duration" : 4024
   },
   "status" : "passed",
   "severity" : "normal"

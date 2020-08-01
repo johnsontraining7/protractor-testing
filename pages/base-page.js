@@ -8,6 +8,10 @@ let BasePage = function () {
         element(by.buttonText(btnText)).click();
     }
 
+    this.clickElementByPartialButtonText = (btnText) => {
+        element(by.partialButtonText(btnText)).click();
+    }
+
     this.getPageTitle = () => {
         return browser.getTitle();
     }

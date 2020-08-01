@@ -1,0 +1,60 @@
+{
+  "uid" : "a355877ba3411e4",
+  "name" : " - test login as customer",
+  "fullName" : "Bank app suite. - test login as customer",
+  "historyId" : "6b83b58f183ba97960d741bd1e851aa6",
+  "time" : {
+    "start" : 1596199288474,
+    "stop" : 1596199292423,
+    "duration" : 3949
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7def92a8c7587964",
+      "name" : "Screenshot",
+      "source" : "7def92a8c7587964.png",
+      "type" : "image/png",
+      "size" : 92616
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Bank app suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Bank app suite"
+  }, {
+    "name" : "testMethod",
+    "value" : " - test login as customer"
+  }, {
+    "name" : "package",
+    "value" : "Bank app suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a355877ba3411e4.json",
+  "parameterValues" : [ ]
+}

@@ -1,26 +1,5 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
   "name" : "categories",
-  "children" : [ {
-    "name" : "Product defects",
-    "children" : [ {
-      "name" : "Expected 'Protractor - end-to-end testing for AngularJS' not to be 'Protractor - end-to-end testing for AngularJS'.",
-      "children" : [ {
-        "name" : " - match not equals using to Be",
-        "uid" : "c6c10f336d60246c",
-        "parentUid" : "8df1e2b9e76950058b0d4f8994ca18eb",
-        "status" : "failed",
-        "time" : {
-          "start" : 1596173049412,
-          "stop" : 1596173049873,
-          "duration" : 461
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "8df1e2b9e76950058b0d4f8994ca18eb"
-    } ],
-    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
-  } ]
+  "children" : [ ]
 }

@@ -1,5 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Fri Jul 31 10:54:08 IST 2020","Fri Jul 31 10:54:09 IST 2020","515","","Jasmine matchers test","","Jasmine matchers test"," - match equals using to Be"," - match equals using to Be",""
-"passed","Fri Jul 31 11:11:14 IST 2020","Fri Jul 31 11:11:19 IST 2020","4970","","Bank app suite","","Bank app suite"," - test login as customer"," - test login as customer",""
-"failed","Fri Jul 31 10:54:09 IST 2020","Fri Jul 31 10:54:09 IST 2020","461","","Jasmine matchers test","","Jasmine matchers test"," - match not equals using to Be"," - match not equals using to Be",""
-"passed","Fri Jul 31 10:54:09 IST 2020","Fri Jul 31 10:54:10 IST 2020","449","","Jasmine matchers test","","Jasmine matchers test"," - match contains text"," - match contains text",""
+"passed","Sat Aug 01 08:52:26 IST 2020","Sat Aug 01 08:52:30 IST 2020","4024","","Bank app suite","","Bank app suite"," - test login as customer"," - test login as customer",""

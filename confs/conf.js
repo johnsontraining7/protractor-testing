@@ -1,8 +1,16 @@
 exports.config = {
     directConnect: true,
-    capabilities: {
-        'browserName': 'chrome'
-    },
+    multiCapabilities: [
+        {
+            'browserName' : 'chrome'
+        },
+        {
+            'browserName' : 'firefox'
+        },
+        {
+            'browserName' : 'chrome'
+        }
+    ],
     framework: 'jasmine2',
     specs: ['../specs/login/login-as-customer.js'],
     suites: {

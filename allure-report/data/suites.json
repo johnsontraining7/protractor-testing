@@ -2,59 +2,16 @@
   "uid" : "98d3104e051c652961429bf95fa0b5d6",
   "name" : "suites",
   "children" : [ {
-    "name" : "Jasmine matchers test",
-    "children" : [ {
-      "name" : " - match equals using to Be",
-      "uid" : "64ae9f909c2dc325",
-      "parentUid" : "b4c6a1280b270a5827c74c41b31be72f",
-      "status" : "passed",
-      "time" : {
-        "start" : 1596173048897,
-        "stop" : 1596173049412,
-        "duration" : 515
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : " - match not equals using to Be",
-      "uid" : "c6c10f336d60246c",
-      "parentUid" : "b4c6a1280b270a5827c74c41b31be72f",
-      "status" : "failed",
-      "time" : {
-        "start" : 1596173049412,
-        "stop" : 1596173049873,
-        "duration" : 461
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : " - match contains text",
-      "uid" : "698ef1e49690b9",
-      "parentUid" : "b4c6a1280b270a5827c74c41b31be72f",
-      "status" : "passed",
-      "time" : {
-        "start" : 1596173049873,
-        "stop" : 1596173050322,
-        "duration" : 449
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    } ],
-    "uid" : "b4c6a1280b270a5827c74c41b31be72f"
-  }, {
     "name" : "Bank app suite",
     "children" : [ {
       "name" : " - test login as customer",
-      "uid" : "cb97cc0a74fce890",
+      "uid" : "706134fa3e7be90",
       "parentUid" : "ba93e3850410286e66b5a4bde5fe6b49",
       "status" : "passed",
       "time" : {
-        "start" : 1596174074455,
-        "stop" : 1596174079425,
-        "duration" : 4970
+        "start" : 1596252146521,
+        "stop" : 1596252150545,
+        "duration" : 4024
       },
       "flaky" : false,
       "newFailed" : false,

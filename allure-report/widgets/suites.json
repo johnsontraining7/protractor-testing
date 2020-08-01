@@ -1,17 +1,6 @@
 {
-  "total" : 2,
+  "total" : 1,
   "items" : [ {
-    "uid" : "b4c6a1280b270a5827c74c41b31be72f",
-    "name" : "Jasmine matchers test",
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 2,
-      "unknown" : 0,
-      "total" : 3
-    }
-  }, {
     "uid" : "ba93e3850410286e66b5a4bde5fe6b49",
     "name" : "Bank app suite",
     "statistic" : {
